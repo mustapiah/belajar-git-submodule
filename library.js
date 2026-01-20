@@ -5,3 +5,7 @@ function sayHello(name){
 function sum(a, b){
     return a + b;
 }
+
+function sayGuest(){
+    return "Hello Guest";
+}
